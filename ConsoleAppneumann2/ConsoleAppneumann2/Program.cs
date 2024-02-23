@@ -1,4 +1,5 @@
 ﻿using ConsoleAppneumann2;
+using System.Reflection.Metadata.Ecma335;
 using System.Security.Principal;
 
 namespace ConsoleAppneumann2
@@ -93,6 +94,16 @@ namespace ConsoleAppneumann2
             }
             Console.WriteLine($"2d) {megoldas}");
 
+            // 2e)
+            List<string> budak = new List<string>();
+            foreach (var telepules in telepulesek.OrderBy(x => x.Szelesseg))
+            {
+                if (telepules.TelepulesNev.ToLower().Contains("buda"))
+                {
+                    budak.Add(telepules.TelepulesNev);
+                }
+            }
+            Console.WriteLine(budak[2]);
 
         }
     }
