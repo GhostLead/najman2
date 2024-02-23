@@ -1,0 +1,15 @@
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\bin\Debug\net6.0\ConsoleAppneumann2.exe
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\bin\Debug\net6.0\ConsoleAppneumann2.deps.json
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\bin\Debug\net6.0\ConsoleAppneumann2.runtimeconfig.json
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\bin\Debug\net6.0\ConsoleAppneumann2.dll
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\bin\Debug\net6.0\ConsoleAppneumann2.pdb
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.csproj.AssemblyReference.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.AssemblyInfoInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.AssemblyInfo.cs
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.csproj.CoreCompileInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.dll
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\refint\ConsoleAppneumann2.dll
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.pdb
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ConsoleAppneumann2.genruntimeconfig.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppneumann2\ConsoleAppneumann2\obj\Debug\net6.0\ref\ConsoleAppneumann2.dll
